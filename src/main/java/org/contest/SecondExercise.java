@@ -6,7 +6,7 @@ public class SecondExercise {
 
     public static void main(String[] args) {
 
-        String firstLine = "5 1";
+        String firstLine = "5 1" ;
         String secondLine = "0 2 4 3 -1";
 
         String[] nk = firstLine.split(" ");
